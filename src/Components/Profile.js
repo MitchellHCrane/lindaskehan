@@ -10,7 +10,7 @@ function Profile() {
             <img
               className="headProfilePic"
               src="../images/KariFitz.jpeg"
-              alt="Kari Fitzgerald Senior Loan Officer"
+              alt="Title Here"
             />
           </div>
           <div>
