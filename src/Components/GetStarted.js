@@ -47,8 +47,8 @@ function GetStarted() {
 
         <GetStartedItem
           title="Leave a Review"
-          description="Thank you for choosing First Class Home Mortgage. It’s our priority to continue providing quality service to our customers. Tell us about your experience."
-          url="https://g.page/r/CStPPIWpW1rHEAg/review"
+          description="Thank you for choosing First Class Home Mortgage. It’s my priority to continue providing quality service to my customers. Tell me about your experience."
+          url="https://g.page/r/Ca6GOecLexOkEAI/review"
           iconName="reviewIcon"
           btnText="Write Review"
         />
