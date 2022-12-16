@@ -22,7 +22,7 @@ function Footer() {
           <h3 className="footerH3">License Info</h3>
           <p className="footerP">Linda Skehan (NMLS #262918)</p>
           <p className="footerP">
-            Regulated by the Colorado Divison of Real Estate NMLS #1843
+            Regulated by State of Utah Division of Real Estate NMLS #1843
           </p>
         </div>
         <div className="footerGridItem">
