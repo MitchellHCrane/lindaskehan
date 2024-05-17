@@ -16,12 +16,12 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://www.blink.mortgage/app/signup/p/FirstClassHomeMortgage/lindaskehan"
+          url="https://firstclasshomemortgage.my1003app.com/262918/register"
           iconName="applicationIcon"
           btnText="Start Application"
         />
 
-<GetStartedItem
+        <GetStartedItem
           title="CreditSmart Loan Education"
           description="Be confident about your finances. Our lessons will empower you to make educated decisions throughout the homebuying process."
           url="https://creditsmart.freddiemac.com/paths/homebuyer-u/"
@@ -39,7 +39,7 @@ function GetStarted() {
 
         <GetStartedItem
           title="Leave a Review"
-          description="Thank you for choosing First Class Home Mortgage. It’s my priority to continue providing quality service to my customers. Tell me about your experience."
+          description="Thank you for choosing First Class Home Mortgage. It's my priority to continue providing quality service to my customers. Tell me about your experience."
           url="https://g.page/r/Ca6GOecLexOkEAI/review"
           iconName="reviewIcon"
           btnText="Write Review"
