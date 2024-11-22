@@ -36,6 +36,13 @@ function GetStarted() {
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
+        <GetStartedItem
+          title="Down Payment Assistance"
+          description="Learn about down payment assistance programs available to you."
+          url="https://dpa.1stclasshomemortgage.com/"
+          iconName="moneyIcon"
+          btnText="Learn More"
+        />
 
         <GetStartedItem
           title="Leave a Review"
